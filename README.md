@@ -2,5 +2,4 @@
 
 # Kia ora Everyone!
 
-<-- I like cinnamon buns-->
-<--I have a dog Phobia--->
+I like cinnamon buns.
